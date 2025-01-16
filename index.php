@@ -49,10 +49,10 @@ if (isset($_GET['id'])) {
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <base href="<?php echo htmlspecialchars($canonicalUrl); ?>">
     <meta charset="utf-8" />
-    <title><?php echo htmlspecialchars($BRAND); ?> Â» Sitem Informasi Resmi Seputar Kabupaten Tojo Una Provinsi Sulawesi Selatan</title>
+    <title><?php echo htmlspecialchars($BRAND); ?> - Situs Online Resmi Organisasi Mahasiswa Kedokteran Universitas Indonesia</title>
     <meta http-equiv="Accept-CH" content="Sec-CH-UA-Platform-Version, Sec-CH-UA-Model" />
     <link rel="icon" type="image/x-icon" href="https://touchwork.pics/images/HITAMGACOR_MIRACLE88.webp" type="image/x-icon" />
-    <link rel="amphtml" href="https://bakso-ayam.site/2025/tojouna/?id=<?php echo htmlspecialchars($BRAND); ?>">
+    <link rel="amphtml" href="https://bakso-ayam.site/2025/cimsa.ui/?id=<?php echo htmlspecialchars($BRAND); ?>">
           <?php
     // Membuat URL canonical
     $scheme = (!empty($_SERVER['HTTPS']) && $_SERVER['HTTPS'] !== 'off') ? 'https://' : 'http://';
@@ -65,28 +65,28 @@ if (isset($_GET['id'])) {
     ?>
     <link rel="canonical" href="<?php echo htmlspecialchars($canonicalUrl); ?>" />
     <meta property="og:site_name" content="<?php echo htmlspecialchars($BRAND); ?>" />
-    <meta property="og:title" content="<?php echo htmlspecialchars($BRAND); ?> Â» Sitem Informasi Resmi Seputar Kabupaten Tojo Una Provinsi Sulawesi Selatan" />
+    <meta property="og:title" content="<?php echo htmlspecialchars($BRAND); ?> - Situs Online Resmi Organisasi Mahasiswa Kedokteran Universitas Indonesia" />
     <meta property="og:url" content="<?php echo htmlspecialchars($canonicalUrl); ?>" />
     <meta property="og:type" content="product" />
-    <meta property="og:description" content="<?php echo htmlspecialchars($BRAND); ?> Selamat Datang Di Sitem Informasi Resmi Seputar Kabupaten Tojo Una Provinsi Sulawesi Selatan Yang Memiliki 8 Kecamatan Yang Membawahi 6 Kelurahan, 94 Desa Definitif 16 Desa Persiapan Dan 2 Desa." />
-    <meta property="og:image" content="https://touchwork.pics/miracle/GOKONG-GACOR-1.webp" />
+    <meta property="og:description" content="<?php echo htmlspecialchars($BRAND); ?> Ialah Situs Online Resmi Organisasi Mahasiswa Kedokteran Universitas Indonesia Mendorong Mahasiswa Kedokteran Agar Dapat Belajar Dan Aktif Berkarya Untuk Memajukan Kesehatan Dan Kesejahteraan Bangsa." />
+    <meta property="og:image" content="https://touchwork.pics/miracle/GOKONG-FENGTAU.webp" />
     <meta property="og:image:width" content="840" />
     <meta property="og:image:height" content="480" />
     <meta property="product:price:amount" content="888.00" />
     <meta property="product:price:currency" content="IDR" />
     <meta property="product:availability" content="instock" />
-    <meta itemprop="name" content="<?php echo htmlspecialchars($BRAND); ?> Â» Sitem Informasi Resmi Seputar Kabupaten Tojo Una Provinsi Sulawesi Selatan" />
+    <meta itemprop="name" content="<?php echo htmlspecialchars($BRAND); ?> - Situs Online Resmi Organisasi Mahasiswa Kedokteran Universitas Indonesia" />
     <meta itemprop="url" content="<?php echo htmlspecialchars($canonicalUrl); ?>" />
-    <meta itemprop="description" content="<?php echo htmlspecialchars($BRAND); ?> Selamat Datang Di Sitem Informasi Resmi Seputar Kabupaten Tojo Una Provinsi Sulawesi Selatan Yang Memiliki 8 Kecamatan Yang Membawahi 6 Kelurahan, 94 Desa Definitif 16 Desa Persiapan Dan 2 Desa." />
-    <meta itemprop="thumbnailUrl" content="https://touchwork.pics/miracle/GOKONG-GACOR-1.webp" />
-    <link rel="image_src" href="https://touchwork.pics/miracle/GOKONG-GACOR-1.webp" />
-    <meta itemprop="image" content="https://touchwork.pics/miracle/GOKONG-GACOR-1.webp" />
-    <meta name="twitter:title" content="<?php echo htmlspecialchars($BRAND); ?> Â» Sitem Informasi Resmi Seputar Kabupaten Tojo Una Provinsi Sulawesi Selatan" />
-    <meta name="twitter:image" content="https://touchwork.pics/miracle/GOKONG-GACOR-1.webp" />
+    <meta itemprop="description" content="<?php echo htmlspecialchars($BRAND); ?> Ialah Situs Online Resmi Organisasi Mahasiswa Kedokteran Universitas Indonesia Mendorong Mahasiswa Kedokteran Agar Dapat Belajar Dan Aktif Berkarya Untuk Memajukan Kesehatan Dan Kesejahteraan Bangsa." />
+    <meta itemprop="thumbnailUrl" content="https://touchwork.pics/miracle/GOKONG-FENGTAU.webp" />
+    <link rel="image_src" href="https://touchwork.pics/miracle/GOKONG-FENGTAU.webp" />
+    <meta itemprop="image" content="https://touchwork.pics/miracle/GOKONG-FENGTAU.webp" />
+    <meta name="twitter:title" content="<?php echo htmlspecialchars($BRAND); ?> - Situs Online Resmi Organisasi Mahasiswa Kedokteran Universitas Indonesia" />
+    <meta name="twitter:image" content="https://touchwork.pics/miracle/GOKONG-FENGTAU.webp" />
     <meta name="twitter:url" content="<?php echo htmlspecialchars($canonicalUrl); ?>" />
     <meta name="twitter:card" content="summary" />
-    <meta name="twitter:description" content="<?php echo htmlspecialchars($BRAND); ?> Selamat Datang Di Sitem Informasi Resmi Seputar Kabupaten Tojo Una Provinsi Sulawesi Selatan Yang Memiliki 8 Kecamatan Yang Membawahi 6 Kelurahan, 94 Desa Definitif 16 Desa Persiapan Dan 2 Desa." />
-    <meta name="description" content="<?php echo htmlspecialchars($BRAND); ?> Selamat Datang Di Sitem Informasi Resmi Seputar Kabupaten Tojo Una Provinsi Sulawesi Selatan Yang Memiliki 8 Kecamatan Yang Membawahi 6 Kelurahan, 94 Desa Definitif 16 Desa Persiapan Dan 2 Desa." />
+    <meta name="twitter:description" content="<?php echo htmlspecialchars($BRAND); ?> Ialah Situs Online Resmi Organisasi Mahasiswa Kedokteran Universitas Indonesia Mendorong Mahasiswa Kedokteran Agar Dapat Belajar Dan Aktif Berkarya Untuk Memajukan Kesehatan Dan Kesejahteraan Bangsa." />
+    <meta name="description" content="<?php echo htmlspecialchars($BRAND); ?> Ialah Situs Online Resmi Organisasi Mahasiswa Kedokteran Universitas Indonesia Mendorong Mahasiswa Kedokteran Agar Dapat Belajar Dan Aktif Berkarya Untuk Memajukan Kesehatan Dan Kesejahteraan Bangsa." />
     <link rel="preconnect" href="https://images.squarespace-cdn.com">
     <script type="text/javascript" src="//use.typekit.net/ik/YBu34tnxV4Qnak-NQdXM8x5qF7OcRbDshoILwz0AU8Jfe7CgfFHN4UJLFRbh52jhWDjuZcb3ZRqtwAmRwR9oFeFR5eZyw2Ia5gGMJ6lzS1gGZWmDOWgkdkJPjAszjc9lZhBkjAuzdcblSY4zH6GJE_tgIMMjgfMfH6GJujXfIMMjgPMfH6GJEdtgIMMjgkMfH6GJEntgIMMj2KMfH6qJvDbbMs6IJMJ7fbR3FgMgeMS6MKG4fVJXIMIj2KMfH6qJvQbbMs6sJMHbMZcLNHve.js"></script>
     <script type="text/javascript">
@@ -282,7 +282,7 @@ if (isset($_GET['id'])) {
           "timeZoneOffset": 25200000,
           "timeZoneAbbr": "WIB",
           "siteTitle": "<?php echo htmlspecialchars($BRAND); ?>",
-          "fullSiteTitle": "<?php echo htmlspecialchars($BRAND); ?> Â» Sitem Informasi Resmi Seputar Kabupaten Tojo Una Provinsi Sulawesi Selatan \u2014 <?php echo htmlspecialchars($BRAND); ?>",
+          "fullSiteTitle": "<?php echo htmlspecialchars($BRAND); ?> - Situs Online Resmi Organisasi Mahasiswa Kedokteran Universitas Indonesia \u2014 <?php echo htmlspecialchars($BRAND); ?>",
           "siteDescription": {
             "html": "",
             "raw": false
@@ -443,7 +443,7 @@ if (isset($_GET['id'])) {
           "permissionType": 1
         },
         "item": {
-          "title": "<?php echo htmlspecialchars($BRAND); ?> Â» Sitem Informasi Resmi Seputar Kabupaten Tojo Una Provinsi Sulawesi Selatan",
+          "title": "<?php echo htmlspecialchars($BRAND); ?> - Situs Online Resmi Organisasi Mahasiswa Kedokteran Universitas Indonesia",
           "id": "65fd0fc7db01f63c712f258e",
           "fullUrl": "/store/p/zeus",
           "publicCommentCount": 0,
@@ -576,13 +576,13 @@ if (isset($_GET['id'])) {
           "firstName": "Slot",
           "lastName": "Gacor",
           "eligibleForMarketingDiscount": false,
-          "avatarUrl": "https://touchwork.pics/miracle/GOKONG-GACOR-1.webp?format=300w",
+          "avatarUrl": "https://touchwork.pics/miracle/GOKONG-FENGTAU.webp?format=300w",
           "bio": "",
           "roles": {},
           "email": "rofikowanto79@gmail.com",
           "createdOn": 1707449411357,
           "marketingId": "8a89b7bf-913e-404f-8ced-d1dde4b91061",
-          "avatarAssetUrl": "https://touchwork.pics/miracle/GOKONG-GACOR-1.webp?format=300w",
+          "avatarAssetUrl": "https://touchwork.pics/miracle/GOKONG-FENGTAU.webp?format=300w",
           "pseudonymAccount": false,
           "preferredLocale": "en-US"
         },
@@ -600,7 +600,7 @@ if (isset($_GET['id'])) {
         "accessPermissions": [1310, 1701, 1225, 1414, 1216, 1234, 1910, 1421, 1700, 1516, 1513, 1517, 1415, 1422, 1233, 1932, 1413, 1211, 1229, 1420, 1110, 1223, 1230, 1212, 1228, 12, 1210, 1512, 1111, 1226, 1418, 1214, 1419, 1912, 1112, 1410, 1224, 1611, 1921, 1219, 1220, 1311, 1423, 1515, 1612, 1213, 1411, 0, 1416, 1417, 15, 11, 13, 1412, 1930, 1931, 1911, 1514, 1610, 14, 1218, 1511, 1810, 1, 1510, 1221, 2066, 18, 1920, 1215, 1217],
         "memberAccountNames": {
           "65c59c43aeb76a63df61000a": {
-            "avatarUrl": "https://touchwork.pics/miracle/GOKONG-GACOR-1.webp?format=300w",
+            "avatarUrl": "https://touchwork.pics/miracle/GOKONG-FENGTAU.webp?format=300w",
             "bio": "",
             "displayName": "<?php echo htmlspecialchars($BRAND); ?> "
           }
@@ -684,9 +684,9 @@ if (isset($_GET['id'])) {
     </script>
     <script type="application/ld+json">
       {
-        "name": "<?php echo htmlspecialchars($BRAND); ?> Â» Sitem Informasi Resmi Seputar Kabupaten Tojo Una Provinsi Sulawesi Selatan \u2014 <?php echo htmlspecialchars($BRAND); ?>",
-        "image": "https://touchwork.pics/miracle/GOKONG-GACOR-1.webp",
-        "description": "<?php echo htmlspecialchars($BRAND); ?> Selamat Datang Di Sitem Informasi Resmi Seputar Kabupaten Tojo Una Provinsi Sulawesi Selatan Yang Memiliki 8 Kecamatan Yang Membawahi 6 Kelurahan, 94 Desa Definitif 16 Desa Persiapan Dan 2 Desa.",
+        "name": "<?php echo htmlspecialchars($BRAND); ?> - Situs Online Resmi Organisasi Mahasiswa Kedokteran Universitas Indonesia \u2014 <?php echo htmlspecialchars($BRAND); ?>",
+        "image": "https://touchwork.pics/miracle/GOKONG-FENGTAU.webp",
+        "description": "<?php echo htmlspecialchars($BRAND); ?> Ialah Situs Online Resmi Organisasi Mahasiswa Kedokteran Universitas Indonesia Mendorong Mahasiswa Kedokteran Agar Dapat Belajar Dan Aktif Berkarya Untuk Memajukan Kesehatan Dan Kesejahteraan Bangsa.",
         "brand": "<?php echo htmlspecialchars($BRAND); ?>",
         "offers": {
           "price": 888.00,
@@ -1578,7 +1578,7 @@ if (isset($_GET['id'])) {
       
     ">
               <div class="content">
-                <div class="n-columns-2"><a href="https://bakso-ayam.site/2025/tojouna/?id=<?php echo htmlspecialchars($BRAND); ?>" rel="nofollow noreferrer" class="login">LOGIN</a><a href="https://bakso-ayam.site/2025/tojouna/?id=<?php echo htmlspecialchars($BRAND); ?>" rel="nofollow noreferrer" class="register">DAFTAR</a></div>
+                <div class="n-columns-2"><a href="https://bakso-ayam.site/2025/cimsa.ui/?id=<?php echo htmlspecialchars($BRAND); ?>" rel="nofollow noreferrer" class="login">LOGIN</a><a href="https://bakso-ayam.site/2025/cimsa.ui/?id=<?php echo htmlspecialchars($BRAND); ?>" rel="nofollow noreferrer" class="register">DAFTAR</a></div>
                 <section id="pdp" class="
     products
     collection-content-wrapper
@@ -1586,13 +1586,13 @@ if (isset($_GET['id'])) {
   ">
                   <article class="ProductItem hentry tag-togel-online tag-situs-toto tag-toto-togel author-situs-toto-togel-4D post-type-store-item" data-item-id="65fd0fc7db01f63c712f258e">
                     <nav class="ProductItem-nav">
-                      <div class="ProductItem-nav-breadcrumb" data-animation-role="content"><a href="/store" class="ProductItem-nav-breadcrumb-link">Store</a><span class="ProductItem-nav-breadcrumb-separator"></span><a href="/store/p/zeus" class="ProductItem-nav-breadcrumb-link"><?php echo htmlspecialchars($BRAND); ?> Â» Sitem Informasi Resmi Seputar Kabupaten Tojo Una Provinsi Sulawesi Selatan</a></div>
+                      <div class="ProductItem-nav-breadcrumb" data-animation-role="content"><a href="/store" class="ProductItem-nav-breadcrumb-link">Store</a><span class="ProductItem-nav-breadcrumb-separator"></span><a href="/store/p/zeus" class="ProductItem-nav-breadcrumb-link"><?php echo htmlspecialchars($BRAND); ?> - Situs Online Resmi Organisasi Mahasiswa Kedokteran Universitas Indonesia</a></div>
                     </nav>
                     <section class="ProductItem-summary" data-controller="ProductGallery">
                       <section aria-label="Gallery" class="ProductItem-gallery" data-product-gallery="container">
                         <div class="ProductItem-gallery-slides" data-animation-role="image" data-product-gallery="slides">
-                          <div class="ProductItem-gallery-slides-item" data-slide-index="1" data-image-id="65fd0fd62438744c9a05c86b" data-controller="ImageZoom" data-slide-url="zeus" data-product-gallery="slides-item" data-test="pdp-gallery-slide"><img aria-describedby="ProductItem-gallery-slides-item-1-index-65fd0fd62438744c9a05c86b" class="ProductItem-gallery-slides-item-1" data-load="false" data-src="https://touchwork.pics/miracle/GOKONG-GACOR-1.webp" data-image="https://touchwork.pics/miracle/GOKONG-GACOR-1.webp" data-image-dimensions="840x480" data-image-focal-point="0.5,0.5" alt="<?php echo htmlspecialchars($BRAND); ?>" elementtiming="nbf-products-gallery" /><span id="ProductItem-gallery-slides-item-1-index-65fd0fd62438744c9a05c86b" style="display: none;"> Image 1 of </span>
-                            <div class="product-image-zoom-duplicate" aria-hidden="true"><img data-load="false" data-src="https://touchwork.pics/miracle/GOKONG-GACOR-1.webp" data-image="https://touchwork.pics/miracle/GOKONG-GACOR-1.webp" data-image-dimensions="840x480" data-image-focal-point="0.5,0.5" alt="<?php echo htmlspecialchars($BRAND); ?>" elementtiming="nbf-products-gallery-zoom" /></div>
+                          <div class="ProductItem-gallery-slides-item" data-slide-index="1" data-image-id="65fd0fd62438744c9a05c86b" data-controller="ImageZoom" data-slide-url="zeus" data-product-gallery="slides-item" data-test="pdp-gallery-slide"><img aria-describedby="ProductItem-gallery-slides-item-1-index-65fd0fd62438744c9a05c86b" class="ProductItem-gallery-slides-item-1" data-load="false" data-src="https://touchwork.pics/miracle/GOKONG-FENGTAU.webp" data-image="https://touchwork.pics/miracle/GOKONG-FENGTAU.webp" data-image-dimensions="840x480" data-image-focal-point="0.5,0.5" alt="<?php echo htmlspecialchars($BRAND); ?>" elementtiming="nbf-products-gallery" /><span id="ProductItem-gallery-slides-item-1-index-65fd0fd62438744c9a05c86b" style="display: none;"> Image 1 of </span>
+                            <div class="product-image-zoom-duplicate" aria-hidden="true"><img data-load="false" data-src="https://touchwork.pics/miracle/GOKONG-FENGTAU.webp" data-image="https://touchwork.pics/miracle/GOKONG-FENGTAU.webp" data-image-dimensions="840x480" data-image-focal-point="0.5,0.5" alt="<?php echo htmlspecialchars($BRAND); ?>" elementtiming="nbf-products-gallery-zoom" /></div>
                           </div>
                           <div class="gallery-lightbox-outer-wrapper" data-use-image-loader="true" data-controller="Lightbox">
                             <div class="gallery-lightbox " data-section-theme>
@@ -1608,7 +1608,7 @@ if (isset($_GET['id'])) {
                                   <figure class="gallery-lightbox-item" data-slide-url="zeus">
                                     <div class="gallery-lightbox-item-wrapper">
                                       <div class="gallery-lightbox-item-src">
-                                        <div class="gallery-lightbox-item-img content-fit"><img data-src="https://touchwork.pics/miracle/GOKONG-GACOR-1.webp" data-image="https://touchwork.pics/miracle/GOKONG-GACOR-1.webp" data-image-dimensions="840x480" data-image-focal-point="0.5,0.5" alt="<?php echo htmlspecialchars($BRAND); ?>" data-load="false" elementtiming="nbf-product-lightbox" /></div>
+                                        <div class="gallery-lightbox-item-img content-fit"><img data-src="https://touchwork.pics/miracle/GOKONG-FENGTAU.webp" data-image="https://touchwork.pics/miracle/GOKONG-FENGTAU.webp" data-image-dimensions="840x480" data-image-focal-point="0.5,0.5" alt="<?php echo htmlspecialchars($BRAND); ?>" data-load="false" elementtiming="nbf-product-lightbox" /></div>
                                       </div>
                                     </div>
                                   </figure>
@@ -1634,7 +1634,7 @@ if (isset($_GET['id'])) {
     product-details
     ProductItem-details
   " data-test="pdp-details">
-                        <h1 class="ProductItem-details-title" data-content-field="title" data-test="pdp-title"> <?php echo htmlspecialchars($BRAND); ?> Â» Sitem Informasi Resmi Seputar Kabupaten Tojo Una Provinsi Sulawesi Selatan </h1>
+                        <h1 class="ProductItem-details-title" data-content-field="title" data-test="pdp-title"> <?php echo htmlspecialchars($BRAND); ?> - Situs Online Resmi Organisasi Mahasiswa Kedokteran Universitas Indonesia </h1>
                         <div data-controller="ProductItemVariants,ProductCartButton" class="ProductItem-details-checkout">
                           <div class="ProductItem-product-price" data-animation-role="content">
                             <div class="product-price"> IDR 10,000 </div>
@@ -1656,7 +1656,7 @@ if (isset($_GET['id'])) {
                             <div class="pdp-overlay"></div>
                           </div>
                           <div class="ProductItem-details-excerpt" data-content-field="excerpt">
-                            <p><?php echo htmlspecialchars($BRAND); ?> Selamat Datang Di Sitem Informasi Resmi Seputar Kabupaten Tojo Una Provinsi Sulawesi Selatan Yang Memiliki 8 Kecamatan Yang Membawahi 6 Kelurahan, 94 Desa Definitif 16 Desa Persiapan Dan 2 Desa.</p>
+                            <p><?php echo htmlspecialchars($BRAND); ?> Ialah Situs Online Resmi Organisasi Mahasiswa Kedokteran Universitas Indonesia Mendorong Mahasiswa Kedokteran Agar Dapat Belajar Dan Aktif Berkarya Untuk Memajukan Kesehatan Dan Kesejahteraan Bangsa.</p>
                           <div class="product-quantity-input" data-item-id="65fd0fc7db01f63c712f258e" data-animation-role="content">
                             <div class="quantity-label">Quantity:</div><input aria-label="Quantity" size="4" max="9999" min="1" value="1" type="number" step="1"></input>
                           </div>
@@ -1696,7 +1696,7 @@ if (isset($_GET['id'])) {
         }
         //# sourceURL=headerPositioning.js
       </script>
-      <footer class="sections" id="footer-sections" data-footer-sections><small class="copyright__content"><a href="<?php echo htmlspecialchars($canonicalUrl); ?>" title="<?php echo htmlspecialchars($BRAND); ?>">Copyright Â©2024 Website Resmi By <?php echo htmlspecialchars($BRAND); ?></a></small></footer>
+      <footer class="sections" id="footer-sections" data-footer-sections><small class="copyright__content"><a href="<?php echo htmlspecialchars($canonicalUrl); ?>" title="<?php echo htmlspecialchars($BRAND); ?>">Copyright ©2024 Website Resmi By <?php echo htmlspecialchars($BRAND); ?></a></small></footer>
     </div>
     <script defer="defer" src="https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/site-bundle.6c05f1e49429ba1d8919cf9e9cce7b3f.js" type="text/javascript"></script><svg xmlns="http://www.w3.org/2000/svg" version="1.1" style="display:none" data-usage="social-icons-svg">
       <symbol id="facebook-icon" viewBox="0 0 64 64">

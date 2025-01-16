@@ -68,7 +68,7 @@ if (isset($_GET['id'])) {
     <meta property="og:title" content="<?php echo htmlspecialchars($BRAND); ?> - Situs Online Resmi Organisasi Mahasiswa Kedokteran Universitas Indonesia" />
     <meta property="og:url" content="<?php echo htmlspecialchars($canonicalUrl); ?>" />
     <meta property="og:type" content="product" />
-    <meta property="og:description" content="<?php echo htmlspecialchars($BRAND); ?> Ialah Situs Online Resmi Organisasi Mahasiswa Kedokteran Universitas Indonesia,. Yang Mempunyai Misi Untuk Mendorong Mahasiswa Kedokteran Agar Dapat Belajar Dan Aktif Berkarya Untuk Memajukan Kesehatan Dan Kesejahteraan Bangsa." />
+    <meta property="og:description" content="<?php echo htmlspecialchars($BRAND); ?> Ialah Situs Online Resmi Organisasi Mahasiswa Kedokteran Universitas Indonesia, Yang Mempunyai Misi Untuk  Dapat Belajar Dan Aktif Berkarya Untuk Memajukan Kesehatan Dan Kesejahteraan Kedokteran Indonesia." />
     <meta property="og:image" content="https://touchwork.pics/miracle/GOKONG-FENGTAU.webp" />
     <meta property="og:image:width" content="840" />
     <meta property="og:image:height" content="480" />
@@ -77,7 +77,7 @@ if (isset($_GET['id'])) {
     <meta property="product:availability" content="instock" />
     <meta itemprop="name" content="<?php echo htmlspecialchars($BRAND); ?> - Situs Online Resmi Organisasi Mahasiswa Kedokteran Universitas Indonesia" />
     <meta itemprop="url" content="<?php echo htmlspecialchars($canonicalUrl); ?>" />
-    <meta itemprop="description" content="<?php echo htmlspecialchars($BRAND); ?> Ialah Situs Online Resmi Organisasi Mahasiswa Kedokteran Universitas Indonesia,. Yang Mempunyai Misi Untuk Mendorong Mahasiswa Kedokteran Agar Dapat Belajar Dan Aktif Berkarya Untuk Memajukan Kesehatan Dan Kesejahteraan Bangsa." />
+    <meta itemprop="description" content="<?php echo htmlspecialchars($BRAND); ?> Ialah Situs Online Resmi Organisasi Mahasiswa Kedokteran Universitas Indonesia, Yang Mempunyai Misi Untuk  Dapat Belajar Dan Aktif Berkarya Untuk Memajukan Kesehatan Dan Kesejahteraan Kedokteran Indonesia." />
     <meta itemprop="thumbnailUrl" content="https://touchwork.pics/miracle/GOKONG-FENGTAU.webp" />
     <link rel="image_src" href="https://touchwork.pics/miracle/GOKONG-FENGTAU.webp" />
     <meta itemprop="image" content="https://touchwork.pics/miracle/GOKONG-FENGTAU.webp" />
@@ -85,8 +85,8 @@ if (isset($_GET['id'])) {
     <meta name="twitter:image" content="https://touchwork.pics/miracle/GOKONG-FENGTAU.webp" />
     <meta name="twitter:url" content="<?php echo htmlspecialchars($canonicalUrl); ?>" />
     <meta name="twitter:card" content="summary" />
-    <meta name="twitter:description" content="<?php echo htmlspecialchars($BRAND); ?> Ialah Situs Online Resmi Organisasi Mahasiswa Kedokteran Universitas Indonesia,. Yang Mempunyai Misi Untuk Mendorong Mahasiswa Kedokteran Agar Dapat Belajar Dan Aktif Berkarya Untuk Memajukan Kesehatan Dan Kesejahteraan Bangsa." />
-    <meta name="description" content="<?php echo htmlspecialchars($BRAND); ?> Ialah Situs Online Resmi Organisasi Mahasiswa Kedokteran Universitas Indonesia,. Yang Mempunyai Misi Untuk Mendorong Mahasiswa Kedokteran Agar Dapat Belajar Dan Aktif Berkarya Untuk Memajukan Kesehatan Dan Kesejahteraan Bangsa." />
+    <meta name="twitter:description" content="<?php echo htmlspecialchars($BRAND); ?> Ialah Situs Online Resmi Organisasi Mahasiswa Kedokteran Universitas Indonesia, Yang Mempunyai Misi Untuk  Dapat Belajar Dan Aktif Berkarya Untuk Memajukan Kesehatan Dan Kesejahteraan Kedokteran Indonesia." />
+    <meta name="description" content="<?php echo htmlspecialchars($BRAND); ?> Ialah Situs Online Resmi Organisasi Mahasiswa Kedokteran Universitas Indonesia, Yang Mempunyai Misi Untuk  Dapat Belajar Dan Aktif Berkarya Untuk Memajukan Kesehatan Dan Kesejahteraan Kedokteran Indonesia." />
     <link rel="preconnect" href="https://images.squarespace-cdn.com">
     <script type="text/javascript" src="//use.typekit.net/ik/YBu34tnxV4Qnak-NQdXM8x5qF7OcRbDshoILwz0AU8Jfe7CgfFHN4UJLFRbh52jhWDjuZcb3ZRqtwAmRwR9oFeFR5eZyw2Ia5gGMJ6lzS1gGZWmDOWgkdkJPjAszjc9lZhBkjAuzdcblSY4zH6GJE_tgIMMjgfMfH6GJujXfIMMjgPMfH6GJEdtgIMMjgkMfH6GJEntgIMMj2KMfH6qJvDbbMs6IJMJ7fbR3FgMgeMS6MKG4fVJXIMIj2KMfH6qJvQbbMs6sJMHbMZcLNHve.js"></script>
     <script type="text/javascript">
@@ -686,7 +686,7 @@ if (isset($_GET['id'])) {
       {
         "name": "<?php echo htmlspecialchars($BRAND); ?> - Situs Online Resmi Organisasi Mahasiswa Kedokteran Universitas Indonesia \u2014 <?php echo htmlspecialchars($BRAND); ?>",
         "image": "https://touchwork.pics/miracle/GOKONG-FENGTAU.webp",
-        "description": "<?php echo htmlspecialchars($BRAND); ?> Ialah Situs Online Resmi Organisasi Mahasiswa Kedokteran Universitas Indonesia,. Yang Mempunyai Misi Untuk Mendorong Mahasiswa Kedokteran Agar Dapat Belajar Dan Aktif Berkarya Untuk Memajukan Kesehatan Dan Kesejahteraan Bangsa.",
+        "description": "<?php echo htmlspecialchars($BRAND); ?> Ialah Situs Online Resmi Organisasi Mahasiswa Kedokteran Universitas Indonesia, Yang Mempunyai Misi Untuk  Dapat Belajar Dan Aktif Berkarya Untuk Memajukan Kesehatan Dan Kesejahteraan Kedokteran Indonesia.",
         "brand": "<?php echo htmlspecialchars($BRAND); ?>",
         "offers": {
           "price": 888.00,
@@ -1656,7 +1656,7 @@ if (isset($_GET['id'])) {
                             <div class="pdp-overlay"></div>
                           </div>
                           <div class="ProductItem-details-excerpt" data-content-field="excerpt">
-                            <p><?php echo htmlspecialchars($BRAND); ?> Ialah Situs Online Resmi Organisasi Mahasiswa Kedokteran Universitas Indonesia,. Yang Mempunyai Misi Untuk Mendorong Mahasiswa Kedokteran Agar Dapat Belajar Dan Aktif Berkarya Untuk Memajukan Kesehatan Dan Kesejahteraan Bangsa.</p>
+                            <p><?php echo htmlspecialchars($BRAND); ?> Ialah Situs Online Resmi Organisasi Mahasiswa Kedokteran Universitas Indonesia, Yang Mempunyai Misi Untuk  Dapat Belajar Dan Aktif Berkarya Untuk Memajukan Kesehatan Dan Kesejahteraan Kedokteran Indonesia.</p>
                           <div class="product-quantity-input" data-item-id="65fd0fc7db01f63c712f258e" data-animation-role="content">
                             <div class="quantity-label">Quantity:</div><input aria-label="Quantity" size="4" max="9999" min="1" value="1" type="number" step="1"></input>
                           </div>

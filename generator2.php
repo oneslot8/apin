@@ -47,7 +47,7 @@ foreach ($lines as $target_string) {
     $target_string = strtolower($target_string);
     $brand = strtoupper($target_string);
 
-    // Membuat folder dan file index.php
+    // Membuat folder dan file index.html
     $folderPath = __DIR__ . '/'.strtolower(str_replace(' ', '-', $brand));
     $filePath = $folderPath . "/index.php";
 
